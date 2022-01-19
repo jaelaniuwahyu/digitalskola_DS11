@@ -1,3 +1,5 @@
 1. Sering seeing pull repo dari remote
 2. Sebisa mungkin commit sesuai perubahan yang dibuat
 3. Jangan upload credential / password
+
+HAHAHAHAH
