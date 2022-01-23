@@ -1,0 +1,48 @@
+Data Science --> Proses menganalisa, ,e,proses, modelling data, hingga menginterpretasi hasil kepada perusahaan guna memberikan insight dalam pengambilan keputusan.
+
+3 Poin penting dalam Data Science:
+- Programming Skill
+- Business Knowledge
+- Statistic
+
+Data Sience's Subset
+1. 1.Artificial Intelligence
+Mesin atau program komputer yang belajar melakukan tugas yang memerlukan jenis kecerdasan dan biasanya dilakukan oleh manusia.
+2. Machine Learning
+Teknik untuk melatih sebuah program komputer dengan machine learning, program dapat dilatih untuk memecahkan masalah.
+3. Deep Learning
+salah satu cabang Machine Learning yang menggunakan Deep Neural Network untuk menyelesaikan permasalahan pada domain Machine Learning.
+
+Machine Learning
+1. Supervised Learning: Bertujuan untuk mencegah suatu hal terjadi atau memprediksi, Berupa labelled data.
+Present ke stakeholder hasil berupa:
+- Accuracy
+- Precision
+- Recall
+2. Unsupervised Learning:  Bertujuan untuk mencari behavior user, Berupa unlabelled data.
+3. Reinforcement Learning: Menciptakan agent software yang dapat belajar sendiri dari lingkungannya.
+
+Jenis-Jenis Supervised Learning
+1. Regression: Advertising, Popularity, Prediction, Weather Forecasting, Market Forecasting, Estimating Life Expectancy, Population Growth Prediction.
+2. Clasification: Identify Fraud Detection, Image Clasification, Customer Retention, Diagnostic.
+
+Jenis-Jenis Unsupervised Learning
+1. Dimensionality Reduction: Meaningful Compression, Structure Discovery, Feature Elicitation, Big Data Visualization.
+2. Clustering: Recommender System, Targetted Marketing, Customer Segmentation.
+
+Jenis-Jenis Reinforcement Learning
+Real-Time Decision, Game AI, Learning Task, Skill Acquisition, Robot Navigation
+
+Data Science Implementation
+1. Financial Industry: Investment Decision, Credit Scoring, Fraud Prevention
+2. Media and Entertaiment: Sentiment Analysis, Content Personalization, Churn Prediction
+
+Data Science In Business
+Key Component: 
+1. Data history usually taken from user's behavior.
+2. Data that taken from secondary data.
+3. Knowledge that connected to the real world.
+
+Why Data Science?
+- Nowdays decision more into data-driven and real-time.
+- Some issues/problem can't be solve by manual programming language (e.g. spam email)
